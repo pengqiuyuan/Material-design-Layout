@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Material design - Dashboard
+    </title>
+    <meta charset="utf-8">
+
+    <link href="stylesheets/bootstrap.min.css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="stylesheets/se7en-font.css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="stylesheets/style.css" media="all" rel="stylesheet" type="text/css"/>
+
+    <script src="javascripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="javascripts/jquery-ui.js" type="text/javascript"></script>
+    <script src="javascripts/bootstrap.min.js" type="text/javascript"></script>
+    <script src="javascripts/main.js" type="text/javascript"></script>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+</head>
+  <body>
+    <div class="modal-shiftfix">
+      <!-- Navigation -->
+      <div class="navbar navbar-fixed-top scroll-hide">
+        <div class="container-fluid top-bar">
+          <div class="pull-right">
+            <ul class="nav navbar-nav pull-right">
+              <li class="dropdown settings hidden-xs">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span aria-hidden="true" class="se7en-gear"></span>
+                  <div class="sr-only">
+                    Settings
+                  </div>
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a class="settings-link blue" href="javascript:chooseStyle('none', 30)"><span></span>Blue</a>
+                  </li>
+                  <li>
+                    <a class="settings-link green" href="javascript:chooseStyle('green-theme', 30)"><span></span>Green</a>
+                  </li>
+                  <li>
+                    <a class="settings-link orange" href="javascript:chooseStyle('orange-theme', 30)"><span></span>Orange</a>
+                  </li>
+                  <li>
+                    <a class="settings-link magenta" href="javascript:chooseStyle('magenta-theme', 30)"><span></span>Magenta</a>
+                  </li>
+                  <li>
+                    <a class="settings-link gray" href="javascript:chooseStyle('gray-theme', 30)"><span></span>Gray</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown user hidden-xs"><a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                <img width="34" height="34" src="images/avatar-male.jpg" />您好，彭秋源<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">
+                    <i class="icon-user"></i>我的账户</a>
+                  </li>
+                  <li><a href="#">
+                    <i class="icon-gear"></i>账户设置</a>
+                  </li>
+                  <li><a href="#">
+                    <i class="icon-signout"></i>退出</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+            <button class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="logo" href="#">se7en</a>
+            <form class="navbar-form form-inline col-lg-2 hidden-xs">
+                <input class="form-control" placeholder="Search" type="text">
+            </form>
+        </div>
+        <div class="container-fluid main-nav clearfix">
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li>
+                <a class="current" href="#"><span aria-hidden="true" class="se7en-home"></span>控制台</a>
+              </li>
+              <li><a href="#">
+                <span aria-hidden="true" class="se7en-feed"></span>社交订阅</a>
+              </li>
+              <li class="dropdown"><a data-toggle="dropdown" href="#">
+                <span aria-hidden="true" class="se7en-star"></span>特色<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="#">按钮</a>
+                  </li>
+                  <li>
+                    <a href="#">Font Awesome Icons</a>
+                  </li>
+                  <li><a href="#">
+                    <span class="notifications label label-warning">New</span>
+                    <p>
+                      Glyphicons
+                    </p></a>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown"><a data-toggle="dropdown" href="#">
+                <span aria-hidden="true" class="se7en-forms"></span>表单<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">
+                    <span class="notifications label label-warning">New</span>
+                    <p>
+                      表单组件
+                    </p></a>
+                    
+                  </li>
+                  <li>
+                  <li>
+                    <a href="#">高级表单</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown"><a data-toggle="dropdown" href="#">
+                <span aria-hidden="true" class="se7en-tables"></span>表格<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="#">基本表格</a>
+                  </li>
+                  <li>
+                    <a href="#">数据表格</a>
+                  </li>
+                </ul>
+              </li>
+              <li><a href="#">
+                <span aria-hidden="true" class="se7en-charts"></span>图表</a>
+              </li>
+              <li class="dropdown"><a data-toggle="dropdown" href="#">
+                <span aria-hidden="true" class="se7en-pages"></span>页面<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">
+                    <span class="notifications label label-warning">New</span>
+                    <p>
+                      图表
+                    </p></a>
+                    
+                  </li>
+                  <li><a href="#">
+                    <span class="notifications label label-warning">New</span>
+                    <p>
+                      登录
+                    </p></a>
+                  </li>
+                  <li>
+                    <a href="#">注册</a>
+                  </li>
+                  <li>
+                    <a href="#">404 Page</a>
+                  </li>
+                </ul>
+              </li>
+              <li><a href="#">
+                <span aria-hidden="true" class="se7en-gallery"></span>相册</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- End Navigation -->
+      <div class="container-fluid main-content">
+        <!-- Statistics -->
+        <div class="row">
+          <div class="col-lg-12">
+
+          </div>
+        </div>
+        <!-- End Statistics -->
+        <div class="row">
+          <!-- Weather -->
+          <div class="col-md-8">
+
+          </div>
+          <!-- end Weather --><!-- Bar Graph -->
+          <div class="col-md-4">
+
+          </div>
+          <!-- End Bar Graph -->
+        </div>
+        <div class="row">
+          <!-- Area Charts:Morris -->
+          <div class="col-md-6">
+
+          </div>
+          <!-- Area Charts:Morris --><!-- Chat -->
+          <div class="col-md-6">
+
+          </div>
+          <!-- End Chat -->
+        </div>
+        <div class="row">
+          <!-- Pie Graph 1 -->
+          <div class="col-lg-5">
+
+          </div>
+          <div class="col-lg-7">
+
+          </div>
+          <!-- End Pie Graph 1 -->
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
