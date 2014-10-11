@@ -47,7 +47,19 @@
     */
 
     $('.navbar-toggle').click(function() {
-      return $('body, html').toggleClass("nav-open");
+       var p_class = $("body, html").attr("class");
+        if(p_class=="nav-open-right"){
+            $("body, html").toggleClass("nav-open-right");
+        }
+       $('body, html').toggleClass("nav-open");
+    });
+
+    $('.navbar .container-fluid.top-bar .logo').click(function() {
+        var p_class = $("body, html").attr("class");
+        if(p_class=="nav-open"){
+            $("body, html").toggleClass("nav-open");
+        }
+        $('body, html').toggleClass("nav-open-right");
     });
 
   });
