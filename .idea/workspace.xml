@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/stylesheets/style.css" line="2767" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85ce9dcf-e13e-4139-871b-ec35773814a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="85ce9dcf-e13e-4139-871b-ec35773814a3" name="Default" comment="" />
     <ignored path="Material-design-Layout.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413015989527" ignored="false" />
@@ -58,7 +56,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="115" selection-end="115" vertical-scroll-proportion="0.19424461">
+            <state line="3" column="51" selection-start="69" selection-end="69" vertical-scroll-proportion="0.14568345">
               <folding />
             </state>
           </provider>
@@ -371,7 +369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="115" selection-end="115" vertical-scroll-proportion="0.19424461">
+        <state line="3" column="51" selection-start="69" selection-end="69" vertical-scroll-proportion="0.14568345">
           <folding />
         </state>
       </provider>
