@@ -2823,13 +2823,7 @@ body.fourofour {
         width: 100%;
         float: none;
         border-bottom: 1px solid #aaaaaa; }
-    .navbar .nav.navbar-nav.pull-right > li > a.dropdown-toggle >img {
-        border-radius: 50%;
-        float: left;
-    }
 
-    .navbar .container-fluid.main-nav .nav-collapse .nav > li > .dropdown-menu > li >a{
-        float: left; }
     .navbar .container-fluid.main-nav .nav-collapse .nav {
         padding-left: 15px;
         text-align: left; }
@@ -2888,6 +2882,17 @@ body.fourofour {
         background: rgba(0, 0, 0, 0.04); }
     .navbar .container-fluid.main-nav .nav-collapse .nav > li .dropdown-menu {
         text-align: left; }
+
+    .navbar-nav .open .dropdown-menu>li>a{
+        padding-right: 150px;
+    }
+    .navbar .container-fluid.top-bar .nav > li.user > a {
+        padding: 5px 65px 6px 10px;
+        color: #999999;
+    }
+    .navbar .container-fluid.top-bar .nav > li > a {
+        padding: 8px 16px 9px;
+    }
 
 }
 @media (max-width: 600px) {

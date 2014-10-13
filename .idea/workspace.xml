@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ce9dcf-e13e-4139-871b-ec35773814a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/style.css" afterPath="$PROJECT_DIR$/stylesheets/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Material-design-Layout.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +13,7 @@
     <file path="$PROJECT_DIR$/../Material-design-Navigation/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1412932684690" ignored="false" />
     <file path="$PROJECT_DIR$/../Material-design-Navigation/stylesheets/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413166986457" ignored="false" />
     <file path="/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413184102909" ignored="false" />
-    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413184112138" ignored="false" />
+    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413186749421" ignored="false" />
     <file path="/main.js" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413008944605" ignored="false" />
     <file path="/README.md" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413020515606" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2830" column="86" selection-start="93289" selection-end="93289" vertical-scroll-proportion="0.27027026">
+            <state line="2887" column="57" selection-start="95714" selection-end="95714" vertical-scroll-proportion="0.42664093">
               <folding />
             </state>
           </provider>
@@ -49,7 +47,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="62" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-6.322034">
+            <state line="23" column="39" selection-start="984" selection-end="986" vertical-scroll-proportion="-2.20339">
               <folding>
                 <element signature="tag#a#0;tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -355,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="62" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-6.322034">
+        <state line="23" column="39" selection-start="984" selection-end="986" vertical-scroll-proportion="-2.20339">
           <folding>
             <element signature="tag#a#0;tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
@@ -364,7 +362,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2830" column="86" selection-start="93289" selection-end="93289" vertical-scroll-proportion="0.27027026">
+        <state line="2887" column="57" selection-start="95714" selection-end="95714" vertical-scroll-proportion="0.42664093">
           <folding />
         </state>
       </provider>
