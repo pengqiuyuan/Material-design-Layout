@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/stylesheets/style.css" line="2767" />
+    <bookmark url="file://$PROJECT_DIR$/stylesheets/style.css" line="2763" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ce9dcf-e13e-4139-871b-ec35773814a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/style.css" afterPath="$PROJECT_DIR$/stylesheets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Material-design-Layout.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413015989527" ignored="false" />
     <file path="$PROJECT_DIR$/../Material-design-Navigation/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1412932684690" ignored="false" />
-    <file path="$PROJECT_DIR$/../Material-design-Navigation/stylesheets/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413019307203" ignored="false" />
-    <file path="/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1412941427807" ignored="false" />
-    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413018179606" ignored="false" />
+    <file path="$PROJECT_DIR$/../Material-design-Navigation/stylesheets/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413166986457" ignored="false" />
+    <file path="/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413184102909" ignored="false" />
+    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413184112138" ignored="false" />
     <file path="/main.js" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413008944605" ignored="false" />
     <file path="/README.md" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413020515606" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,10 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2818" column="23" selection-start="92962" selection-end="92963" vertical-scroll-proportion="0.0">
+            <state line="2830" column="86" selection-start="93289" selection-end="93289" vertical-scroll-proportion="0.27027026">
               <folding />
             </state>
           </provider>
@@ -47,19 +49,10 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="44" selection-start="3618" selection-end="3618" vertical-scroll-proportion="-4.470588">
+            <state line="60" column="62" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-6.322034">
               <folding>
-                <element signature="tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#a#0;tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="66" selection-start="316" selection-end="316" vertical-scroll-proportion="0.38848922">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -91,10 +84,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascripts/main.js" />
-        <option value="$PROJECT_DIR$/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -320,7 +313,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="32" selection-start="1015" selection-end="1025" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#a#0;tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -346,6 +339,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="316" selection-end="316" vertical-scroll-proportion="0.38848922">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="33" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.0">
@@ -353,25 +353,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2818" column="23" selection-start="92962" selection-end="92963" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="44" selection-start="3618" selection-end="3618" vertical-scroll-proportion="-4.470588">
+        <state line="60" column="62" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-6.322034">
           <folding>
-            <element signature="tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#a#0;tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="66" selection-start="316" selection-end="316" vertical-scroll-proportion="0.38848922">
+        <state line="2830" column="86" selection-start="93289" selection-end="93289" vertical-scroll-proportion="0.27027026">
           <folding />
         </state>
       </provider>

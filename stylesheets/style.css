@@ -188,10 +188,7 @@ dl {
       height: 100%;
       position: relative;
       z-index: 100; }
-      .navbar .container-fluid.top-bar .nav > li {
-        height: 100%;
-        margin-right: 5px;
-        float: left; }
+
         .navbar .container-fluid.top-bar .nav > li > a {
           display: block;
           height: 45px;
@@ -246,7 +243,6 @@ dl {
           background: #999999; }
         .navbar .container-fluid.top-bar .nav > li.user {
           width: auto;
-          margin-left: 5px;
           margin-right: 0; }
           .navbar .container-fluid.top-bar .nav > li.user > a {
             padding: 5px 10px 6px;
@@ -2812,6 +2808,28 @@ body.fourofour {
       overflow-y: auto;
   }
 
+    .navbar .nav.navbar-nav.pull-right {
+        padding-right: 15px;
+        text-align: right; }
+    .navbar .nav.navbar-nav.pull-right > li {
+        display: block;
+        text-align: right;
+        margin: 0; }
+    .navbar .nav.navbar-nav.pull-right > li > .dropdown-menu {
+        position: relative;
+        background: none;
+        box-shadow: none;
+        margin: 0;
+        width: 100%;
+        float: none;
+        border-bottom: 1px solid #aaaaaa; }
+    .navbar .nav.navbar-nav.pull-right > li > a.dropdown-toggle >img {
+        border-radius: 50%;
+        float: left;
+    }
+
+    .navbar .container-fluid.main-nav .nav-collapse .nav > li > .dropdown-menu > li >a{
+        float: left; }
     .navbar .container-fluid.main-nav .nav-collapse .nav {
         padding-left: 15px;
         text-align: left; }
