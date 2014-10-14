@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ce9dcf-e13e-4139-871b-ec35773814a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-login@2x.png" afterPath="$PROJECT_DIR$/images/logo-login@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/se7en-logo.png" afterPath="$PROJECT_DIR$/images/se7en-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/se7en-logo@2x.png" afterPath="$PROJECT_DIR$/images/se7en-logo@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/style.css" afterPath="$PROJECT_DIR$/stylesheets/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Material-design-Layout.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +13,7 @@
     <file path="$PROJECT_DIR$/../Material-design-Navigation/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1412932684690" ignored="false" />
     <file path="$PROJECT_DIR$/../Material-design-Navigation/stylesheets/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413166986457" ignored="false" />
     <file path="/index.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413277771923" ignored="false" />
-    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413283274314" ignored="false" />
+    <file path="/style.css" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413289186111" ignored="false" />
     <file path="/main.js" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413284079989" ignored="false" />
     <file path="/README.md" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413020515606" ignored="false" />
     <file path="D:/work/Se7en/Se7en/social.html" changelist="85ce9dcf-e13e-4139-871b-ec35773814a3" time="1413268390693" ignored="false" />
@@ -51,19 +40,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1044" column="96" selection-start="33954" selection-end="33954" vertical-scroll-proportion="-65.0">
+            <state line="1047" column="20" selection-start="34020" selection-end="34020" vertical-scroll-proportion="0.05212355">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="40" selection-start="91" selection-end="91" vertical-scroll-proportion="0.16735537">
+            <state line="353" column="44" selection-start="14398" selection-end="14398" vertical-scroll-proportion="-10.050847">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -108,9 +97,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/javascripts/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -272,7 +261,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -432,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1044" column="96" selection-start="33954" selection-end="33954" vertical-scroll-proportion="-65.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="0.3480663">
@@ -455,10 +437,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="91" selection-end="91" vertical-scroll-proportion="0.16735537">
+        <state line="353" column="44" selection-start="14398" selection-end="14398" vertical-scroll-proportion="-10.050847">
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1047" column="20" selection-start="34020" selection-end="34020" vertical-scroll-proportion="0.05212355">
+          <folding />
         </state>
       </provider>
     </entry>
